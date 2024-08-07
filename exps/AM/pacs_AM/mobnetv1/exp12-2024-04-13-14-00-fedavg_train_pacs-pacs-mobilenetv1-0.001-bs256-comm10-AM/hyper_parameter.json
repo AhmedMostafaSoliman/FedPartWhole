@@ -1,0 +1,17 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "AM, mobilenetv1 pretrained, pacs on a",
+    "dataset": "pacs",
+    "display": false,
+    "flagfile": null,
+    "local_epochs": 5,
+    "lr": 0.001,
+    "lr_policy": "step",
+    "model": "mobilenetv1",
+    "note": "AM",
+    "num_classes": 7,
+    "pretrain": true,
+    "rcc_ckpt": null,
+    "test_domain": "a"
+}

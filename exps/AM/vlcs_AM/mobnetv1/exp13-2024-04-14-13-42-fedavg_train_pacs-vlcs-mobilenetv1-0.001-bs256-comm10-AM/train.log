@@ -1,0 +1,85 @@
+2024-04-14 13:42 before_fed Round:   0 | Epochs:   0 | Domain: v | loss: 0.9432 | Acc: 72.46%
+2024-04-14 13:43 before_fed Round:   0 | Epochs:   0 | Domain: c | loss: 0.0496 | Acc: 97.00%
+2024-04-14 13:43 before_fed Round:   0 | Epochs:   0 | Domain: s | loss: 1.2076 | Acc: 66.09%
+2024-04-14 13:43 after_fed Round:   0 | Epochs:   0 | Domain: v | loss: 1.6736 | Acc: 22.03%
+2024-04-14 13:43 after_fed Round:   0 | Epochs:   0 | Domain: c | loss: 1.1897 | Acc: 41.00%
+2024-04-14 13:43 after_fed Round:   0 | Epochs:   0 | Domain: s | loss: 2.0548 | Acc: 9.13%
+2024-04-14 13:43 Model saved! Best Val Acc: 20.11%
+2024-04-14 13:43 test_domain Round:   0 | Epochs:   0 | Domain: l | loss: 1.8611 | Acc: 21.71%
+2024-04-14 13:44 before_fed Round:   1 | Epochs:   5 | Domain: v | loss: 1.3316 | Acc: 72.03%
+2024-04-14 13:44 before_fed Round:   1 | Epochs:   5 | Domain: c | loss: 0.0085 | Acc: 100.00%
+2024-04-14 13:45 before_fed Round:   1 | Epochs:   5 | Domain: s | loss: 1.4205 | Acc: 72.61%
+2024-04-14 13:45 after_fed Round:   1 | Epochs:   5 | Domain: v | loss: 1.4590 | Acc: 49.58%
+2024-04-14 13:45 after_fed Round:   1 | Epochs:   5 | Domain: c | loss: 0.6945 | Acc: 87.00%
+2024-04-14 13:45 after_fed Round:   1 | Epochs:   5 | Domain: s | loss: 1.4210 | Acc: 40.87%
+2024-04-14 13:45 Model saved! Best Val Acc: 52.59%
+2024-04-14 13:45 test_domain Round:   1 | Epochs:   5 | Domain: l | loss: 2.1675 | Acc: 26.10%
+2024-04-14 13:45 before_fed Round:   2 | Epochs:  10 | Domain: v | loss: 1.3308 | Acc: 75.42%
+2024-04-14 13:46 before_fed Round:   2 | Epochs:  10 | Domain: c | loss: 0.0046 | Acc: 100.00%
+2024-04-14 13:46 before_fed Round:   2 | Epochs:  10 | Domain: s | loss: 1.7514 | Acc: 70.87%
+2024-04-14 13:46 after_fed Round:   2 | Epochs:  10 | Domain: v | loss: 1.4817 | Acc: 61.02%
+2024-04-14 13:46 after_fed Round:   2 | Epochs:  10 | Domain: c | loss: 0.4948 | Acc: 90.00%
+2024-04-14 13:46 after_fed Round:   2 | Epochs:  10 | Domain: s | loss: 1.2573 | Acc: 50.87%
+2024-04-14 13:46 Model saved! Best Val Acc: 61.96%
+2024-04-14 13:46 test_domain Round:   2 | Epochs:  10 | Domain: l | loss: 1.9354 | Acc: 48.43%
+2024-04-14 13:47 before_fed Round:   3 | Epochs:  15 | Domain: v | loss: 1.5215 | Acc: 73.73%
+2024-04-14 13:47 before_fed Round:   3 | Epochs:  15 | Domain: c | loss: 0.0096 | Acc: 100.00%
+2024-04-14 13:48 before_fed Round:   3 | Epochs:  15 | Domain: s | loss: 1.5960 | Acc: 76.09%
+2024-04-14 13:48 after_fed Round:   3 | Epochs:  15 | Domain: v | loss: 1.2746 | Acc: 66.10%
+2024-04-14 13:48 after_fed Round:   3 | Epochs:  15 | Domain: c | loss: 0.4334 | Acc: 87.00%
+2024-04-14 13:48 after_fed Round:   3 | Epochs:  15 | Domain: s | loss: 1.1506 | Acc: 58.26%
+2024-04-14 13:48 Model saved! Best Val Acc: 66.57%
+2024-04-14 13:48 test_domain Round:   3 | Epochs:  15 | Domain: l | loss: 2.0216 | Acc: 45.29%
+2024-04-14 13:49 before_fed Round:   4 | Epochs:  20 | Domain: v | loss: 1.7983 | Acc: 75.00%
+2024-04-14 13:49 before_fed Round:   4 | Epochs:  20 | Domain: c | loss: 0.0273 | Acc: 99.00%
+2024-04-14 13:50 before_fed Round:   4 | Epochs:  20 | Domain: s | loss: 1.7668 | Acc: 72.61%
+2024-04-14 13:50 after_fed Round:   4 | Epochs:  20 | Domain: v | loss: 1.5054 | Acc: 69.92%
+2024-04-14 13:50 after_fed Round:   4 | Epochs:  20 | Domain: c | loss: 0.6458 | Acc: 78.00%
+2024-04-14 13:50 after_fed Round:   4 | Epochs:  20 | Domain: s | loss: 0.8302 | Acc: 70.87%
+2024-04-14 13:50 Model saved! Best Val Acc: 71.72%
+2024-04-14 13:50 test_domain Round:   4 | Epochs:  20 | Domain: l | loss: 2.0358 | Acc: 54.71%
+2024-04-14 13:50 before_fed Round:   5 | Epochs:  25 | Domain: v | loss: 1.9342 | Acc: 67.80%
+2024-04-14 13:51 before_fed Round:   5 | Epochs:  25 | Domain: c | loss: 0.0053 | Acc: 100.00%
+2024-04-14 13:51 before_fed Round:   5 | Epochs:  25 | Domain: s | loss: 1.8968 | Acc: 70.43%
+2024-04-14 13:51 after_fed Round:   5 | Epochs:  25 | Domain: v | loss: 1.3701 | Acc: 67.80%
+2024-04-14 13:51 after_fed Round:   5 | Epochs:  25 | Domain: c | loss: 0.4434 | Acc: 88.00%
+2024-04-14 13:51 after_fed Round:   5 | Epochs:  25 | Domain: s | loss: 1.0919 | Acc: 65.22%
+2024-04-14 13:51 test_domain Round:   5 | Epochs:  25 | Domain: l | loss: 3.3014 | Acc: 53.70%
+2024-04-14 13:52 before_fed Round:   6 | Epochs:  30 | Domain: v | loss: 1.7367 | Acc: 69.92%
+2024-04-14 13:52 before_fed Round:   6 | Epochs:  30 | Domain: c | loss: 0.0120 | Acc: 100.00%
+2024-04-14 13:53 before_fed Round:   6 | Epochs:  30 | Domain: s | loss: 1.7458 | Acc: 73.91%
+2024-04-14 13:53 after_fed Round:   6 | Epochs:  30 | Domain: v | loss: 1.1429 | Acc: 66.53%
+2024-04-14 13:53 after_fed Round:   6 | Epochs:  30 | Domain: c | loss: 0.3967 | Acc: 88.00%
+2024-04-14 13:53 after_fed Round:   6 | Epochs:  30 | Domain: s | loss: 1.0206 | Acc: 67.39%
+2024-04-14 13:53 test_domain Round:   6 | Epochs:  30 | Domain: l | loss: 2.5553 | Acc: 54.96%
+2024-04-14 13:53 before_fed Round:   7 | Epochs:  35 | Domain: v | loss: 1.5806 | Acc: 70.76%
+2024-04-14 13:54 before_fed Round:   7 | Epochs:  35 | Domain: c | loss: 0.0036 | Acc: 100.00%
+2024-04-14 13:54 before_fed Round:   7 | Epochs:  35 | Domain: s | loss: 2.8105 | Acc: 71.30%
+2024-04-14 13:54 after_fed Round:   7 | Epochs:  35 | Domain: v | loss: 1.1026 | Acc: 72.46%
+2024-04-14 13:54 after_fed Round:   7 | Epochs:  35 | Domain: c | loss: 0.5409 | Acc: 81.00%
+2024-04-14 13:54 after_fed Round:   7 | Epochs:  35 | Domain: s | loss: 1.0345 | Acc: 71.30%
+2024-04-14 13:54 Model saved! Best Val Acc: 73.48%
+2024-04-14 13:54 test_domain Round:   7 | Epochs:  35 | Domain: l | loss: 3.7622 | Acc: 52.32%
+2024-04-14 13:55 before_fed Round:   8 | Epochs:  40 | Domain: v | loss: 1.2315 | Acc: 75.00%
+2024-04-14 13:55 before_fed Round:   8 | Epochs:  40 | Domain: c | loss: 0.2763 | Acc: 92.00%
+2024-04-14 13:56 before_fed Round:   8 | Epochs:  40 | Domain: s | loss: 1.8381 | Acc: 72.17%
+2024-04-14 13:56 after_fed Round:   8 | Epochs:  40 | Domain: v | loss: 1.4625 | Acc: 72.03%
+2024-04-14 13:56 after_fed Round:   8 | Epochs:  40 | Domain: c | loss: 0.5304 | Acc: 88.00%
+2024-04-14 13:56 after_fed Round:   8 | Epochs:  40 | Domain: s | loss: 1.3762 | Acc: 73.04%
+2024-04-14 13:56 Model saved! Best Val Acc: 75.24%
+2024-04-14 13:56 test_domain Round:   8 | Epochs:  40 | Domain: l | loss: 4.5803 | Acc: 58.97%
+2024-04-14 13:56 before_fed Round:   9 | Epochs:  45 | Domain: v | loss: 1.3467 | Acc: 77.12%
+2024-04-14 13:57 before_fed Round:   9 | Epochs:  45 | Domain: c | loss: 0.2710 | Acc: 94.00%
+2024-04-14 13:57 before_fed Round:   9 | Epochs:  45 | Domain: s | loss: 1.5118 | Acc: 73.48%
+2024-04-14 13:57 after_fed Round:   9 | Epochs:  45 | Domain: v | loss: 1.4344 | Acc: 72.88%
+2024-04-14 13:57 after_fed Round:   9 | Epochs:  45 | Domain: c | loss: 0.4965 | Acc: 88.00%
+2024-04-14 13:57 after_fed Round:   9 | Epochs:  45 | Domain: s | loss: 1.2002 | Acc: 75.65%
+2024-04-14 13:57 Model saved! Best Val Acc: 76.65%
+2024-04-14 13:57 test_domain Round:   9 | Epochs:  45 | Domain: l | loss: 3.4052 | Acc: 60.98%
+2024-04-14 13:58 before_fed Round:  10 | Epochs:  50 | Domain: v | loss: 1.3209 | Acc: 79.24%
+2024-04-14 13:58 before_fed Round:  10 | Epochs:  50 | Domain: c | loss: 0.2438 | Acc: 94.00%
+2024-04-14 13:59 before_fed Round:  10 | Epochs:  50 | Domain: s | loss: 1.6129 | Acc: 72.61%
+2024-04-14 13:59 after_fed Round:  10 | Epochs:  50 | Domain: v | loss: 1.3896 | Acc: 73.73%
+2024-04-14 13:59 after_fed Round:  10 | Epochs:  50 | Domain: c | loss: 0.5001 | Acc: 88.00%
+2024-04-14 13:59 after_fed Round:  10 | Epochs:  50 | Domain: s | loss: 1.2486 | Acc: 74.35%
+2024-04-14 13:59 test_domain Round:  10 | Epochs:  50 | Domain: l | loss: 3.6997 | Acc: 60.48%

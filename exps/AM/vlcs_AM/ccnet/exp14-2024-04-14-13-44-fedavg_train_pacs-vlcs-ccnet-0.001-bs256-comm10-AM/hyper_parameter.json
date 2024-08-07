@@ -1,0 +1,17 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "AM, ccnet(3heads), vlcs on l",
+    "dataset": "vlcs",
+    "display": false,
+    "flagfile": "configs/config_VLCS_ccnet.cfg",
+    "local_epochs": 5,
+    "lr": 0.001,
+    "lr_policy": "step",
+    "model": "ccnet",
+    "note": "AM",
+    "num_classes": 5,
+    "pretrain": false,
+    "rcc_ckpt": null,
+    "test_domain": "l"
+}
