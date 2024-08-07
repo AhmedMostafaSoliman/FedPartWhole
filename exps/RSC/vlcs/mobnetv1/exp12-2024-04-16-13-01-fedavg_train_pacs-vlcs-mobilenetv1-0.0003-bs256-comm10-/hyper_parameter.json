@@ -1,0 +1,17 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "RSC, mobilenetv1 pretrained, vlcs on v",
+    "dataset": "vlcs",
+    "display": false,
+    "flagfile": null,
+    "local_epochs": 5,
+    "lr": 0.0003,
+    "lr_policy": "step",
+    "model": "mobilenetv1",
+    "note": "",
+    "num_classes": 5,
+    "pretrain": true,
+    "rcc_ckpt": null,
+    "test_domain": "v"
+}
