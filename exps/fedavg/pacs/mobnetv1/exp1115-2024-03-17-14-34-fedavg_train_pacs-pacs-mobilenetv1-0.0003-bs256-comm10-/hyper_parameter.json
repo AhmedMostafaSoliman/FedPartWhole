@@ -1,0 +1,19 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "fed avg, mobilenetv1 pretrained, pacs on s",
+    "dataset": "pacs",
+    "display": false,
+    "fair": "loss",
+    "flagfile": null,
+    "local_epochs": 5,
+    "lr": 0.0003,
+    "lr_policy": "one_cycle",
+    "model": "mobilenetv1",
+    "note": "",
+    "num_classes": 7,
+    "pretrain": true,
+    "rcc_ckpt": null,
+    "step_size": 0.2,
+    "test_domain": "s"
+}

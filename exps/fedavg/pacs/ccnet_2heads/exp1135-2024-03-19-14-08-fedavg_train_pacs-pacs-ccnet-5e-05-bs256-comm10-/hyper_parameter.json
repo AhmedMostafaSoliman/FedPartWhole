@@ -1,0 +1,19 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "fed avg, ccnet(2heads), pacs on c",
+    "dataset": "pacs",
+    "display": false,
+    "fair": "loss",
+    "flagfile": "configs/config_PACS_ccnet.cfg",
+    "local_epochs": 5,
+    "lr": 5e-05,
+    "lr_policy": "one_cycle",
+    "model": "ccnet",
+    "note": "",
+    "num_classes": 7,
+    "pretrain": false,
+    "rcc_ckpt": null,
+    "step_size": 0.2,
+    "test_domain": "c"
+}

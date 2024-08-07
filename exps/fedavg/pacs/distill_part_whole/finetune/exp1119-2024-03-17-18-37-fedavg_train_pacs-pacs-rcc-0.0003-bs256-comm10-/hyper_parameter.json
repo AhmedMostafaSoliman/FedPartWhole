@@ -1,0 +1,19 @@
+{
+    "batch_size": 256,
+    "comm": 10,
+    "comment": "fed avg, agglomerator(finetunestep fixed), pacs on a",
+    "dataset": "pacs",
+    "display": false,
+    "fair": "loss",
+    "flagfile": "configs/config_PACS_finetune.cfg",
+    "local_epochs": 5,
+    "lr": 0.0003,
+    "lr_policy": "one_cycle",
+    "model": "rcc",
+    "note": "",
+    "num_classes": 7,
+    "pretrain": false,
+    "rcc_ckpt": "exps/pacs_fedavg/distill_part_whole/pre/exp191-2024-03-16-19-36-fedavg_train_pacs-pacs-rcc-0.0003-bs256-comm10-/checkpoints/best_val_model.pt",
+    "step_size": 0.2,
+    "test_domain": "a"
+}
