@@ -51,6 +51,6 @@ the code rebuilds on the work and borrows from the code bases of:
 
 - Distill Part Whole [link](https://github.com/AhmedMostafaSoliman/distill-part-whole)
 
-Also the code and project structure is borrowed from:
+Also the project's code structure is borrowed from:
 
 - FedDG-GA [link](https://github.com/MediaBrain-SJTU/FedDG-GA)
